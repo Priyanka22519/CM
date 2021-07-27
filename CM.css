@@ -1,0 +1,35 @@
+.p1{
+color: seashell;
+background-color: rgb(9, 39, 85);
+height: 100px;
+width: 1300px;
+text-align: center;
+font-size: 30px;
+margin: 0px;
+padding: 0px
+}
+table {
+width: 100%;
+}
+
+th {
+text-align: left;
+}
+table, th, tr, td
+{
+border: 1px solid;
+border-collapse: collapse;
+padding: 20px;
+}
+.th1
+{
+width: 5%;
+}
+.th2
+{
+width: 30%;
+}
+ol{
+list-style-type: lower-roman;
+color: rgb(7, 156, 7);
+}
