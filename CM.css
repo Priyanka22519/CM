@@ -6,10 +6,12 @@ width: 1300px;
 text-align: center;
 font-size: 30px;
 margin: 0px;
-padding: 0px
+padding: 0px;
 }
+
+
 table {
-width: 100%;
+width: 1300px;
 }
 
 th {
